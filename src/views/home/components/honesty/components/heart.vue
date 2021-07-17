@@ -1,36 +1,43 @@
 <template>
-    <div class="heart heart-main"></div>
+    <figure class="image">
+        <img
+            class="personal-preview"
+            style="border-radius:16px;"
+            :src="image"
+            alt="Phone with personal features preview"
+        />
+    </figure>
 </template>
 
 
 <style lang="scss">
     .heart {
-        width: 100px;
+        width: 150px;
         height: 90px;
 
-        &:before,
-        &:after {
-            content: '';
-            position: absolute;
-            top: 0;
-            background: #fc2e5a;
+        // &:before,
+        // &:after {
+        //     content: '';
+        //     position: absolute;
+        //     top: 0;
+        //     background: #fc2e5a;
 
-            width: 50px;
-            height: 80px;
-            border-radius: 50px 50px 0 0;
-        }
+        //     width: 50px;
+        //     height: 80px;
+        //     border-radius: 50px 50px 0 0;
+        // }
 
-        &:before {
-            left: 50px;
-            transform: rotate(-45deg);
-            transform-origin: 0 100%;
-        }
+        // &:before {
+        //     left: 50px;
+        //     transform: rotate(-45deg);
+        //     transform-origin: 0 100%;
+        // }
 
-        &:after {
-            left: 0;
-            transform: rotate(45deg);
-            transform-origin: 100% 100%;
-        }
+        // &:after {
+        //     left: 0;
+        //     transform: rotate(45deg);
+        //     transform-origin: 100% 100%;
+        // }
 
     }
 
@@ -68,7 +75,13 @@
 </style>
 
 <script>
+import image from "../estaterally-chat.png";
     export default {
-        name: 'ob-heart'
+        name: 'ob-heart',
+        data() {
+                return {
+                    image: image
+                };
+            }
     }
 </script>

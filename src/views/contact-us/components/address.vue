@@ -7,8 +7,9 @@
                 </span>
             </div>
             <div class="column is-10">
-                <strong>{{ $t('contact:address.name') }}</strong><br/>
-                {{ $t('contact:address.ob_organization') }}
+                <strong>{{ $t("contact:address.name") }}</strong
+                ><br />
+                {{ $t("contact:address.ob_organization") }}
             </div>
             <div class="column is-2">
                 <span class="icon">
@@ -16,8 +17,9 @@
                 </span>
             </div>
             <div class="column is-10">
-                <strong>{{ $t('contact:address.address') }}</strong><br/>
-                {{ $t('contact:address.ob_address') }}
+                <strong>{{ $t("contact:address.address") }}</strong
+                ><br />
+                {{ $t("contact:address.ob_address") }}
             </div>
             <div class="column is-2">
                 <span class="icon">
@@ -25,9 +27,10 @@
                 </span>
             </div>
             <div class="column is-10">
-                <strong>{{ $t('contact:address.email') }}</strong><br/>
+                <strong>{{ $t("contact:address.email") }}</strong
+                ><br />
                 <a href="mailto:info@okuna.io">
-                    info@okuna.io
+                    info@estaterally.com
                 </a>
             </div>
             <div class="column is-2">
@@ -36,9 +39,14 @@
                 </span>
             </div>
             <div class="column is-10">
-                <strong>{{ $t('contact:address.website') }}</strong><br/>
-                <a href="https://about.okuna.io" target="_blank" rel="noopener noreferrer">
-                    about.okuna.io
+                <strong>{{ $t("contact:address.website") }}</strong
+                ><br />
+                <a
+                    href="https://about.estaterally.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    about.estaterally.com
                 </a>
             </div>
         </div>
@@ -46,7 +54,7 @@
 </template>
 
 <script>
-    export default {
-        name: 'ob-address'
-    }
+export default {
+    name: "ob-address"
+};
 </script>

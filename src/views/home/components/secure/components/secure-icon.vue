@@ -1,7 +1,12 @@
 <template>
-    <div class="face">
-        <span class="security-icon" v-twemoji>🔒</span>
-    </div>
+    <figure class="image">
+        <img
+            class="personal-preview"
+            style="border-radius:16px;"
+            :src="image"
+            alt="Phone with personal features preview"
+        />
+    </figure>
 </template>
 
 
@@ -12,9 +17,7 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        img{
-            height: 50%;
-        }
+        
     }
 
     .face {
@@ -72,7 +75,13 @@
 </style>
 
 <script>
+import image from "../estaterally-listed-property.png";
     export default {
-        name: 'ob-secure-icon'
+        name: 'ob-secure-icon',
+         data() {
+                return {
+                    image: image
+                };
+            }
     }
 </script>

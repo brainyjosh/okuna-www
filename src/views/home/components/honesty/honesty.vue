@@ -14,8 +14,13 @@
                 </div>
                 <div class="column">
                     <div class="columns is-centered is-vcentered is-height-100 is-mobile has-padding-top-2x-mobile">
-                        <div class="column is-narrow">
-                            <ob-heart></ob-heart>
+                      
+                        <div class="column padding-top-2x-mobile">
+                            <div class="columns is-centered is-vcentered is-height-100 is-mobile">
+                                <div class="column is-10">
+                                    <ob-heart></ob-heart>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>

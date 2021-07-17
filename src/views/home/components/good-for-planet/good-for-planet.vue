@@ -11,10 +11,22 @@
                 </div>
                 <div class="column">
                     <div class="columns is-centered is-vcentered is-height-100">
-                        <div class="column is-narrow content is-medium good-for-planet-text">
-                            <h3>{{ $t('home:good_for_planet.title') }}</h3>
-                            <p v-html="$t('home:good_for_planet.description')">
-                            </p>
+                        <div
+                            class="column is-narrow content is-medium good-for-planet-text"
+                        >
+                            <h3>{{ $t("home:good_for_planet.title") }}</h3>
+                            <p
+                                v-html="$t('home:good_for_planet.description')"
+                            ></p>
+                            <button
+                                class="button is-rainbow is-rounded"
+                                v-scroll-to="'#beta-signup'"
+                            >
+                                <span class="icon">
+                                    <i class="fas fa-heart"></i>
+                                </span>
+                                <span>Back this project.</span>
+                            </button>
                         </div>
                     </div>
                 </div>
@@ -24,21 +36,18 @@
 </template>
 
 <style lang="scss">
-
-    .good-for-planet-text {
-        @media (min-width: 768px) {
-            max-width: 400px;
-        }
+.good-for-planet-text {
+    @media (min-width: 768px) {
+        max-width: 400px;
     }
+}
 </style>
 
 <script>
+import ObEarth from "./components/earth";
 
-    import ObEarth from "./components/earth";
-
-    export default {
-        components: {ObEarth},
-        name: 'ob-good-for-planet'
-    }
+export default {
+    components: { ObEarth },
+    name: "ob-good-for-planet"
+};
 </script>
-

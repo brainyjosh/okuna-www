@@ -6,40 +6,40 @@
         "signup_button": "Sign up for beta"
     },
     "honesty": {
-        "title": "Open and accountable",
-        "description": "All of the code powering the network is open-source, meaning open for anyone to see. No room for abracadabra algorithms!"
+        "title": "Direct Chat",
+        "description": "Stay Connected and organized, chat directly with people on the network, join team group chats, make free voice calls or video chats & close deals directly on estaterally. No room for abracadabra stories!"
     },
     "privacy": {
-        "title": "Privacy-friendly",
-        "description": "We're firm believers privacy is a fundamental human right. We don't track nor monitor your activity."
+        "title": "Ghost Free",
+        "description": "All Brokers, Realtors, Developers & Lawyers on the network pass through a verification process before joining the network. Buyers, Renters & Investors can easily hire a lawyer to stand in for them."
     },
     "secure": {
-        "title": "Secure by design",
-        "description": "Our background is information security. We are baking in security, right from the start."
+        "title": "Showcase What you got!",
+        "description": "Turn your Reputation into sales. List your properties, showcase what you do and services you offer, then rally them accross the entire network and then catch the leads in your inbox and close the sales. Don't waste time posting on social media platforms, showcase what you got to the right people and not millions of broke people."
     },
     "easy": {
         "title": "Friendly and relaxed",
-        "description": "Through a combination of our <a href=\"https://github.com/OkunaOrg/Okuna-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\">community-crafted guidelines</a>, ethical design and code, we foster an environment of friendliness, respect and openess where happiness is the end goal."
+        "description": "Through a combination of our <a href=\"https://estaterally.com/guides\" rel=\"noreferrer noopener nofollow\">well-crafted guidelines</a>, ethical design and code, we foster an environment of friendliness, respect and legitimacy where sales is the end goal and not heartbreak from lost funds to internet fraud-stars. We're on a mission to completely eliminate real estate fraud and property theft. Help us achieve this."
     },
     "fun": {
         "title": "More ways to express yourself",
         "description": "We humans are emotional beings. Find more ways to express your digital self with our increasing reactions library!"
     },
     "personal": {
-        "title": "Customisable",
-        "description": "We're all different and that's something to embrace and celebrate. With customisation features, make the network feel just like home!"
+        "title": "Build Reputation",
+        "description": "We're all different and that's something to embrace and celebrate. With a Professional Profile, build a strong network of people with reputation, connect with buyers, renters, realtors, brokers, Agents, Developers, Lawyers, Investors & other Real Estate professionals!"
     },
     "community": {
-        "title": "Community oriented",
-        "description": "Discover interests & people by joining one of the 2,500+ existing communities available or create and grow your own!"
+        "title": "With Realtors in our Heart.",
+        "description": "As a Realtor, we know you've made a lot of promises to sell or rent out those homes/properties. We totally understand that you have to grow your business, build your profile, gain trust and beat your competetors to market. With you in our heart, we created estaterally to help you achieve this goals by just show-casing what you got on the network, sit back and respond to messages from verified shoppers only. Instead of wasting time replying some cold emails that just don't convert."
     },
     "good_for_planet": {
         "title": "For a better tomorrow",
-        "description": "Apart from donating a percentage of our profits <a href=\"https://founderspledge.com/research\" rel=\"noreferrer noopener\">towards worthy causes</a>, we are also legally committed to being a positive influence on society and the environment."
+        "description": "Apart from building a network of happy people interested in real estate, we're bringing the dream of many to reality by creating the first blockchain use-case in realestate. A truely secure open & decentralized network of home/property buyers, renters & real estate investors transacting directly with owners/realtors or real estate developers without trust, third party or large papers with privacy remaining un-compromized. we're creating a future where anyone at any level can benefit from the global real estate market size with as little as a $1 investment."
     },
     "ads_free": {
-        "title": "Ethically sustained",
-        "description": "The network is sustained through an optional subscription offering access to extra reactions, animated avatars, themes and more. Absolutely zero ads and monetisation of personal information."
+        "title": "Created for Investors, Buyers Renters & Lawyers",
+        "description": "We created estaterally to make it easy for home buyers & renters find the right home/property they want or hire agents they can trust to handle the rest. Also to connect investors to Developers & Lawyers in a way they can trust each other."
     },
     "currency": {
         "title": "A digital currency",
@@ -59,10 +59,11 @@
     "splash_hero": {
         "hello_world": "Hello <span class=\"typing\"></span>",
         "world": "world",
-        "friends": "friends",
-        "family": "family",
-        "grandma": "grandma",
-        "we_are_ob": "We're <strong class=\"has-text-logo is-size-5\">Okuna</strong>, an ethical social network for a brighter tomorrow.",
+        "friends": "Realtor",
+        "family": "Buyer",
+        "grandma": "Renters",
+        "lawyer": "Lawyer",
+        "we_are_ob": "We're <strong class=\"has-text-logo is-size-5\">Estate Rally</strong>, a secure real estate network that connects Buyers, Renters & Investors to Verified Realtors, Brokers and Lawyers from all around the world.",
         "share": "Share",
         "notify_me": "Support us"
     },

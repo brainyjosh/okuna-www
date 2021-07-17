@@ -10,7 +10,7 @@
         <ob-community></ob-community>
         <ob-good-for-planet></ob-good-for-planet>
         <ob-signup id="beta-signup"></ob-signup>
-        <section class="hero is-white">
+        <!-- <section class="hero is-white">
             <div class="hero-body has-text-centered">
                 <div class="container">
                     <div class="columns is-centered is-vcentered">
@@ -27,71 +27,70 @@
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <section class="section">
             <div class="container">
                 <ob-quotes></ob-quotes>
             </div>
         </section>
         <ob-meet-the-team></ob-meet-the-team>
-        <section class="section">
+        <!-- <section class="section">
             <div class="container">
                 <div class="content has-text-centered padding-bottom-2x">
                     <p class="is-size-5 padding-bottom-3x has-text-grey-light">
-                        {{ $t('home:home.featured_in') }}
+                        {{ $t("home:home.featured_in") }}
                     </p>
                 </div>
                 <ob-featured-on></ob-featured-on>
             </div>
-        </section>
+        </section> -->
     </div>
 </template>
 
 <style lang="scss">
-    .home-team{
-        display: flex;
-        position: relative;
-        &-figure{
-            margin-right: -20px;
-        }
+.home-team {
+    display: flex;
+    position: relative;
+    &-figure {
+        margin-right: -20px;
     }
+}
 </style>
 
 <script>
+import ObQuotes from "./components/quotes/quotes";
+import ObSplashHero from "./components/splash-hero/splash-hero";
+import ObFeaturedOn from "./components/featured-in/featured-in";
+import ObMeetTheTeam from "./components/meet-the-team/meet-the-team.vue";
+import ObHonesty from "./components/honesty/honesty.vue";
+import ObPersonal from "./components/personal/personal.vue";
+import ObPrivacy from "./components/privacy/privacy.vue";
+import ObSecure from "./components/secure/secure.vue";
+import ObEasy from "./components/easy/easy.vue";
+import ObFun from "./components/fun/fun";
+import ObGoodForPlanet from "./components/good-for-planet/good-for-planet";
+import ObAdsFree from "./components/ads-free/ads-free";
+import ObSubscribe from "./components/subscribe/subscribe";
+import ObSignup from "./components/beta-signup/beta-signup";
+import ObCommunity from "./components/community/community";
 
-    import ObQuotes from "./components/quotes/quotes";
-    import ObSplashHero from "./components/splash-hero/splash-hero";
-    import ObFeaturedOn from "./components/featured-in/featured-in";
-    import ObMeetTheTeam from "./components/meet-the-team/meet-the-team.vue";
-    import ObHonesty from "./components/honesty/honesty.vue";
-    import ObPersonal from "./components/personal/personal.vue";
-    import ObPrivacy from "./components/privacy/privacy.vue";
-    import ObSecure from "./components/secure/secure.vue";
-    import ObEasy from "./components/easy/easy.vue";
-    import ObFun from "./components/fun/fun";
-    import ObGoodForPlanet from "./components/good-for-planet/good-for-planet";
-    import ObAdsFree from "./components/ads-free/ads-free";
-    import ObSubscribe from "./components/subscribe/subscribe";
-    import ObSignup from "./components/beta-signup/beta-signup";
-    import ObCommunity from "./components/community/community";
-
-    export default {
-        components: {
-            ObCommunity,
-            ObSignup,
-            ObSubscribe,
-            ObAdsFree,
-            ObGoodForPlanet,
-            ObFun,
-            ObEasy,
-            ObSecure,
-            ObPrivacy,
-            ObPersonal,
-            ObHonesty,
-            ObMeetTheTeam,
-            ObFeaturedOn,
-            ObSplashHero,
-            ObQuotes,
-        }
+export default {
+    components: {
+        ObCommunity,
+        ObSignup,
+        ObSubscribe,
+        ObAdsFree,
+        ObGoodForPlanet,
+        ObFun,
+        ObEasy,
+        ObSecure,
+        ObPrivacy,
+        ObPersonal,
+        ObHonesty,
+        ObMeetTheTeam,
+        ObFeaturedOn,
+        ObSplashHero,
+        ObQuotes
     }
+};
 </script>
