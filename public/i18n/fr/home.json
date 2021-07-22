@@ -19,7 +19,7 @@
     },
     "easy": {
         "title": "Amical et détendu",
-        "description": "Grâce à une combinaison d'à la fois <a href=\"https://github.com/OkunaOrg/Okuna-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\">nos lignes directrices élaborées par la communauté</a>, du code éthique et de la conception, nous favorisons un environnement d'amitié, de respect et d'ouverture où le bonheur est le but à atteindre."
+        "description": "Grâce à une combinaison d'à la fois <a href=\"https://github.com/EstaterallyOrg/Estaterally-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\">nos lignes directrices élaborées par la communauté</a>, du code éthique et de la conception, nous favorisons un environnement d'amitié, de respect et d'ouverture où le bonheur est le but à atteindre."
     },
     "fun": {
         "title": "Plus de moyens pour vous exprimer",
@@ -47,14 +47,14 @@
     },
     "quotes": {
         "joel_name": "Joel Hernández",
-        "joel_title": "Fondateur d'Okuna",
-        "joel_quote": "J'imagine un monde où la technologie serait bienveillante, ouverte, responsable et respectueuse. Okuna est le réseau social de ce monde.",
+        "joel_title": "Fondateur d'Estaterally",
+        "joel_quote": "J'imagine un monde où la technologie serait bienveillante, ouverte, responsable et respectueuse. Estaterally est le réseau social de ce monde.",
         "vincent_name": "Vincent Ruijter",
         "vincent_title": "Hacker éthique",
-        "vincent_quote": "Okuna pourrait être la dernière vraie chance de construire quelque chose de différent, quelque chose d'éthique, quelque chose de mieux.",
+        "vincent_quote": "Estaterally pourrait être la dernière vraie chance de construire quelque chose de différent, quelque chose d'éthique, quelque chose de mieux.",
         "phil_name": "Phil Zimmermann",
         "phil_title": "Membre du panthéon d'Internet",
-        "phil_quote": "Okuna est porteur d'espoir pour le futur, un réseau social où nous ne sommes pas victimes de son modèle d'affaires."
+        "phil_quote": "Estaterally est porteur d'espoir pour le futur, un réseau social où nous ne sommes pas victimes de son modèle d'affaires."
     },
     "splash_hero": {
         "hello_world": "Bonjour <span class=\"typing\"></span>",
@@ -62,12 +62,12 @@
         "friends": "ami.e.s",
         "family": "famille",
         "grandma": "grand-mère",
-        "we_are_ob": "Nous sommes <strong class=\"has-text-logo is-size-5\">Okuna</strong>, un réseau social éthique pour un meilleur lendemain.",
+        "we_are_ob": "Nous sommes <strong class=\"has-text-logo is-size-5\">Estaterally</strong>, un réseau social éthique pour un meilleur lendemain.",
         "share": "Partager",
         "notify_me": "Soutenez-nous"
     },
     "why_ob": {
-        "title": "Pourquoi Okuna?",
+        "title": "Pourquoi Estaterally?",
         "subtitle": "Certains des éléments-clés qui nous distinguent des autres réseaux sociaux.",
         "zero_tracking": "Pas de traquage",
         "zero_tracking_desc": "Nous ne vous traquerons jamais, nulle part, de quelque façon que ce soit.",
@@ -89,13 +89,13 @@
         "good_for_planet_desc": "Nous croyons en un monde meilleur pour tous.tes. C'est pourquoi nous donnons 30% de nos profits pour faire du monde un meilleur endroit, maintenant et pour toujours."
     },
     "count_down": {
-        "kickstarter": "Okuna",
+        "kickstarter": "Estaterally",
         "campaign_countdown": "décompte du lancement",
         "days": "jour | jours",
         "hours": "heure | heures",
         "minutes": "minute | minutes",
         "seconds": "seconde | secondes",
-        "kickstarter_launch": "Okuna <strong class=\"has-text-kickstarter\">alpha</strong> a commencé <br/>le<strong> {0} mars 2019</strong>."
+        "kickstarter_launch": "Estaterally <strong class=\"has-text-kickstarter\">alpha</strong> a commencé <br/>le<strong> {0} mars 2019</strong>."
     },
     "meet_the_team": {
         "title": "Rencontrez l'équipe"

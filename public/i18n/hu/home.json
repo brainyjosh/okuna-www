@@ -19,7 +19,7 @@
     },
     "easy": {
         "title": "Barátságos és felszabadult légkör",
-        "description": "A <a href=\"https://github.com/OkunaOrg/Okuna-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\">közösség által formált irányelveink</a>, etikus tervezés és kód kombinációjával szeretnénk olyan körülményeket létrehozni, melyek barátságon, tiszteleten és nyitottságon alapulnak, és ahol a boldogság a fő cél."
+        "description": "A <a href=\"https://github.com/EstaterallyOrg/Estaterally-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\">közösség által formált irányelveink</a>, etikus tervezés és kód kombinációjával szeretnénk olyan körülményeket létrehozni, melyek barátságon, tiszteleten és nyitottságon alapulnak, és ahol a boldogság a fő cél."
     },
     "fun": {
         "title": "Több módja az önkifejezésnek",
@@ -47,14 +47,14 @@
     },
     "quotes": {
         "joel_name": "Joel Hernández",
-        "joel_title": "Az Okuna alapítója",
-        "joel_quote": "Egy olyan világot képzelek el, amelyben a technológia jóindulatú, nyitott, felelős és tiszteletteljes. Az Okuna ennek a világnak a közösségi hálózata.",
+        "joel_title": "Az Estaterally alapítója",
+        "joel_quote": "Egy olyan világot képzelek el, amelyben a technológia jóindulatú, nyitott, felelős és tiszteletteljes. Az Estaterally ennek a világnak a közösségi hálózata.",
         "vincent_name": "Vincent Ruijter",
         "vincent_title": "Etikus hacker",
-        "vincent_quote": "Az Okuna lehet az utolsó esélyünk arra, hogy valami különbet, etikusat és jobbat hozzunk létre.",
+        "vincent_quote": "Az Estaterally lehet az utolsó esélyünk arra, hogy valami különbet, etikusat és jobbat hozzunk létre.",
         "phil_name": "Phil Zimmermann",
         "phil_title": "Az Internet Hírességek Csarnokának tagja",
-        "phil_quote": "Az Okuna reményt ad a jövő számára, egy olyan közösségi hálózatként, ahol nem vagyunk az üzleti modell áldozatai."
+        "phil_quote": "Az Estaterally reményt ad a jövő számára, egy olyan közösségi hálózatként, ahol nem vagyunk az üzleti modell áldozatai."
     },
     "splash_hero": {
         "hello_world": "Helló <span class=\"typing\"></span>",
@@ -62,12 +62,12 @@
         "friends": "barátok",
         "family": "család",
         "grandma": "nagyi",
-        "we_are_ob": "Ez itt az <strong class=\"has-text-logo is-size-5\">Okuna</strong>, egy etikus közösségi hálózat egy szebb holnapért.",
+        "we_are_ob": "Ez itt az <strong class=\"has-text-logo is-size-5\">Estaterally</strong>, egy etikus közösségi hálózat egy szebb holnapért.",
         "share": "Megosztás",
         "notify_me": "Támogass minket"
     },
     "why_ob": {
-        "title": "Miért az Okuna?",
+        "title": "Miért az Estaterally?",
         "subtitle": "A legfontosabb dolgok, amelyek elkülönítenek minket más közösségi hálózatoktól.",
         "zero_tracking": "Nincs nyomonkövetés",
         "zero_tracking_desc": "Soha, semmilyen körülmények között nem követünk.",
@@ -89,13 +89,13 @@
         "good_for_planet_desc": "Bízunk egy jobb világban. Éppen ezért használjuk fel a bevételünk 30%-át arra, hogy jobbá tegyük a világot - most és a jövőben örökre."
     },
     "count_down": {
-        "kickstarter": "Okuna",
+        "kickstarter": "Estaterally",
         "campaign_countdown": "visszaszámláló az indulásig",
         "days": "nap",
         "hours": "óra",
         "minutes": "perc",
         "seconds": "másodperc",
-        "kickstarter_launch": "Okuna <strong class=\"has-text-kickstarter\">alpha</strong> begins <br/>on the<strong> {0}th of March 2019</strong>."
+        "kickstarter_launch": "Estaterally <strong class=\"has-text-kickstarter\">alpha</strong> begins <br/>on the<strong> {0}th of March 2019</strong>."
     },
     "meet_the_team": {
         "title": "Ismerd meg a csapatot"

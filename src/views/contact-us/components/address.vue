@@ -29,7 +29,7 @@
             <div class="column is-10">
                 <strong>{{ $t("contact:address.email") }}</strong
                 ><br />
-                <a href="mailto:info@okuna.io">
+                <a href="mailto:info@Estaterally.io">
                     info@estaterally.com
                 </a>
             </div>

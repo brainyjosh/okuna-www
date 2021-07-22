@@ -1,6 +1,6 @@
 {
     "global": {
-        "okuna": "Okuna"
+        "Estaterally": "Estaterally"
     },
     "header": {
         "home": "Home",
@@ -23,7 +23,7 @@
         "linked_in": "LinkedIn",
         "product_hunt": "Product Hunt",
         "facebook": "Facebook",
-        "the_ob_organization": "Okuna",
+        "the_ob_organization": "Estaterally",
         "privacy_policy": "Privacybeleid",
         "made_with": "Gemaakt met ",
         "in_europe": " in Europa",
@@ -36,7 +36,7 @@
         "share_email": "Verstuur e-mail",
         "share_linkedin": "Deel op LinkedIn",
         "share_wa": "Deel op Whatsapp",
-        "share_title": "Okuna. Een sociaal netwerk voor een betere toekomst.",
+        "share_title": "Estaterally. Een sociaal netwerk voor een betere toekomst.",
         "share_description": "Eerlijk, persoonlijk, privacyvriendelijk en ethisch duurzaam.",
         "share_quote": "Doe mee met de revolutie! Vanaf medio 2019."
     },

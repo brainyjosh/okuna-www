@@ -1,6 +1,6 @@
 # 📖 Community Guidelines
 
-We created these guidelines together with the community to ensure we can all achieve a mutually peaceful, respectful, supportive and kind existence under this digital home we call Okuna.
+We created these guidelines together with the community to ensure we can all achieve a mutually peaceful, respectful, supportive and kind existence under this digital home we call Estaterally.
 
 In short:
 
@@ -27,7 +27,7 @@ In a boring world, we would all look, think and act the same way.
 Luckily, we all look, think and act differently and the world isn’t boring.
  
 Such diversity is one of the greatest strengths of our society; it allows us to collectively think critically about stuff, make better decisions by having a wider range of experiences, and even unlocks previously unattainable innovation.
-Because we embrace diversity we have a list of _**13 protected differences**_ we hope members of Okuna at best embrace and at least, tolerate.
+Because we embrace diversity we have a list of _**13 protected differences**_ we hope members of Estaterally at best embrace and at least, tolerate.
 
 * Age
 * Belief [*](#on-harmful-beliefs)
@@ -43,7 +43,7 @@ Because we embrace diversity we have a list of _**13 protected differences**_ we
 * Sex
 * Sexual orientation
 
-Ideologies that by nature are not embracing, or tolerant of, these differences such as nazism or neo-nazism have no place—and never will have—at Okuna. This includes sharing associated symbols or imagery.
+Ideologies that by nature are not embracing, or tolerant of, these differences such as nazism or neo-nazism have no place—and never will have—at Estaterally. This includes sharing associated symbols or imagery.
 
 ## 🏷 Drop the labels and stereotypes
 
@@ -99,9 +99,9 @@ Do not share people's
 
 ## 🕊 Curb hate
 
-We want Okuna to be a welcoming and friendly place for everyone to surf with peace of mind.
+We want Estaterally to be a welcoming and friendly place for everyone to surf with peace of mind.
 
-Speech containing demeaning, denigrating, humiliating or brutalising comments—whether personal or in general—have no place on Okuna.
+Speech containing demeaning, denigrating, humiliating or brutalising comments—whether personal or in general—have no place on Estaterally.
 
 ## 😬 Avoid spamming
 
@@ -110,7 +110,7 @@ Following, connecting and commenting with the purposes of advertising, phishing 
 
 ## 🥳 Be you
 
-It’s okay to be yourself or an anonymous version of yourself in Okuna. What’s not all right is pretending to be someone you’re not. Impersonating Christopher Hemsworth online won't get you friends IRL or build you the same quantity of arm muscle.
+It’s okay to be yourself or an anonymous version of yourself in Estaterally. What’s not all right is pretending to be someone you’re not. Impersonating Christopher Hemsworth online won't get you friends IRL or build you the same quantity of arm muscle.
 
 ## 🤖 Keep the bots out
 
@@ -134,13 +134,13 @@ Printed, visual or links to material containing the display of sexual organs, ac
 
 ## 🏡 Embrace the shared responsibility
 
-Making Okuna a healthy and welcoming community for everyone is a shared responsibility.
+Making Estaterally a healthy and welcoming community for everyone is a shared responsibility.
 
 * When everything calls for anger, engage in discussion.
 * When something doesn’t look right, report it.
 * When creating a community, own your community: arm it with moderators and administrators capable and informed to enforce the guidelines of the platform.
-* Have a great idea? [Suggest it on the feature board](https://okuna.canny.io/feature-requests).
-* Found a bug? [Report it on the bug tracker](https://okuna.canny.io/bugs).
+* Have a great idea? [Suggest it on the feature board](https://Estaterally.canny.io/feature-requests).
+* Found a bug? [Report it on the bug tracker](https://Estaterally.canny.io/bugs).
 
 **It’s up to each of us to create a digital space we’re proud and happy to be part of. We’re glad you’re here.**
 
@@ -200,4 +200,4 @@ Thanks to the volunteers who with their comments, suggestions and proof-reading 
  [![CC 4.0 License](https://licensebuttons.net/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 
-This document is released under the [Creative Commons 4.0 license](https://creativecommons.org/licenses/by/4.0/). Changes, revisions or improvements can be contributed [on Github](https://github.com/OkunaOrg/okuna-api).
+This document is released under the [Creative Commons 4.0 license](https://creativecommons.org/licenses/by/4.0/). Changes, revisions or improvements can be contributed [on Github](https://github.com/EstaterallyOrg/Estaterally-api).

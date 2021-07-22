@@ -7,7 +7,7 @@
     },
     "address": {
         "name": "Név",
-        "ob_organization": "Okuna B.V",
+        "ob_organization": "Estaterally B.V",
         "address": "Cím",
         "ob_address": "Apollo 14, Hága, Hollandia",
         "telephone": "Telefon",
@@ -36,7 +36,7 @@
         "recaptcha_authorization": "Engedélyezed nekünk, hogy betöltsük a Google Recaptcha-t, így megadva a Google-nak a lehetőséget, hogy beszerezze az előbb felsorolt információkat?",
         "recaptcha_authorization_yes": "Igen, engedélyezem a Google Recaptcha-t",
         "or": "vagy",
-        "recaptcha_authorization_no": "Nem, e-mailt küldök az info@okuna.io címre",
+        "recaptcha_authorization_no": "Nem, e-mailt küldök az info@Estaterally.io címre",
         "tick_box": "Kérünk, jelöld be ezt a jelölőnégyzetet",
         "clear_form": "Űrlap törlése",
         "submit": "Küldés"

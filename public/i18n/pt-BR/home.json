@@ -19,7 +19,7 @@
     },
     "easy": {
         "title": "Amigável e descontraída",
-        "description": "Combinando a ética de nosso design e programação com as <a href=\"https://github.com/OkunaOrg/Okuna-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\">diretrizes elaboradas pela comunidade</a>, fomentamos um ambiente de amizade, respeito e tolerância, onde a felicidade é o objetivo final."
+        "description": "Combinando a ética de nosso design e programação com as <a href=\"https://github.com/EstaterallyOrg/Estaterally-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\">diretrizes elaboradas pela comunidade</a>, fomentamos um ambiente de amizade, respeito e tolerância, onde a felicidade é o objetivo final."
     },
     "fun": {
         "title": "Mais maneiras de se expressar",
@@ -27,7 +27,7 @@
     },
     "personal": {
         "title": "Personalizável",
-        "description": "Somos todos diferentes, e isso é algo para abraçar e celebrar. Com os recursos de personalização, você pode deixar a Okuna do seu jeito!"
+        "description": "Somos todos diferentes, e isso é algo para abraçar e celebrar. Com os recursos de personalização, você pode deixar a Estaterally do seu jeito!"
     },
     "community": {
         "title": "Direcionada para as comunidades",
@@ -47,14 +47,14 @@
     },
     "quotes": {
         "joel_name": "Joel Hernández",
-        "joel_title": "Fundador da Okuna",
-        "joel_quote": "Eu imagino um mundo com tecnologia acolhedora, aberta, responsável e respeitosa. Okuna é a rede social desse mundo.",
+        "joel_title": "Fundador da Estaterally",
+        "joel_quote": "Eu imagino um mundo com tecnologia acolhedora, aberta, responsável e respeitosa. Estaterally é a rede social desse mundo.",
         "vincent_name": "Vincent Ruijter",
         "vincent_title": "Hacker ético",
-        "vincent_quote": "Okuna pode ser a última chance real de construir algo diferente, algo ético, algo melhor.",
+        "vincent_quote": "Estaterally pode ser a última chance real de construir algo diferente, algo ético, algo melhor.",
         "phil_name": "Phil Zimmermann",
         "phil_title": "Membro do \"Internet Hall of Fame\"",
-        "phil_quote": "Okuna traz consigo a esperança para o futuro, uma rede social onde não somos vítimas de seu modelo de negócios."
+        "phil_quote": "Estaterally traz consigo a esperança para o futuro, uma rede social onde não somos vítimas de seu modelo de negócios."
     },
     "splash_hero": {
         "hello_world": "Olá <span class=\"typing\"></span>",
@@ -62,12 +62,12 @@
         "friends": "amigos",
         "family": "família",
         "grandma": "vovó",
-        "we_are_ob": "Somos a <strong class=\"has-text-logo is-size-5\">Okuna</strong>, uma rede social ética para um futuro melhor.",
+        "we_are_ob": "Somos a <strong class=\"has-text-logo is-size-5\">Estaterally</strong>, uma rede social ética para um futuro melhor.",
         "share": "Compartilhar",
         "notify_me": "Apoie-nos"
     },
     "why_ob": {
-        "title": "Por que Okuna?",
+        "title": "Por que Estaterally?",
         "subtitle": "Algumas das principais coisas que nos diferenciam de outras redes sociais.",
         "zero_tracking": "Livre de rastreamento",
         "zero_tracking_desc": "Nós nunca vamos rastrear você, em lugar algum, de forma alguma.",
@@ -89,13 +89,13 @@
         "good_for_planet_desc": "Nós acreditamos em um mundo melhor para todos. É por isso que estamos doando 30% dos nossos lucros para tornar o mundo um lugar melhor, agora e sempre."
     },
     "count_down": {
-        "kickstarter": "Okuna",
+        "kickstarter": "Estaterally",
         "campaign_countdown": "contagem regressiva de lançamento",
         "days": "dia | dias",
         "hours": "hora | horas",
         "minutes": "minuto | minutos",
         "seconds": "segundo | segundos",
-        "kickstarter_launch": "Okuna <strong class=\"has-text-kickstarter\">alpha</strong> começa <br/>em<strong> {0} de março de 2019</strong>."
+        "kickstarter_launch": "Estaterally <strong class=\"has-text-kickstarter\">alpha</strong> começa <br/>em<strong> {0} de março de 2019</strong>."
     },
     "meet_the_team": {
         "title": "Conheça a equipe"

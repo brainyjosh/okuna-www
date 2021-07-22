@@ -7,7 +7,7 @@
     },
     "address": {
         "name": "Nome",
-        "ob_organization": "Okuna B.V",
+        "ob_organization": "Estaterally B.V",
         "address": "Endereço",
         "ob_address": "Apollo 14, Haia, Países Baixos",
         "telephone": "Telefone",
@@ -36,7 +36,7 @@
         "recaptcha_authorization": "Você nos autoriza a carregar o Google Recaptcha e, portanto, permite que o Google colete esses dados?",
         "recaptcha_authorization_yes": "Sim, autorizo o carregamento do Google Recaptcha",
         "or": "ou",
-        "recaptcha_authorization_no": "Não, envie um email para info@okuna.io",
+        "recaptcha_authorization_no": "Não, envie um email para info@Estaterally.io",
         "tick_box": "Por favor, marque esta caixa",
         "clear_form": "Limpar formulário",
         "submit": "Enviar"

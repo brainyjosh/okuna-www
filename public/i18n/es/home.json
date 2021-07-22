@@ -19,7 +19,7 @@
     },
     "easy": {
         "title": "Amigable y relajado",
-        "description": "Mediante una combinación de nuestras <a href=\"https://github.com/OkunaOrg/Okuna-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\">pautas elaboradas por la comunidad</a>, diseño ético y código, fomentamos un ambiente de amistad, respeto y apertura donde la felicidad es el objetivo final."
+        "description": "Mediante una combinación de nuestras <a href=\"https://github.com/EstaterallyOrg/Estaterally-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\">pautas elaboradas por la comunidad</a>, diseño ético y código, fomentamos un ambiente de amistad, respeto y apertura donde la felicidad es el objetivo final."
     },
     "fun": {
         "title": "Más formas de expresarse a ti mismo",
@@ -47,14 +47,14 @@
     },
     "quotes": {
         "joel_name": "Joel Hernández",
-        "joel_title": "Fundador de Okuna",
-        "joel_quote": "Imagino un mundo de tecnología amable, abierta, responsable y respetuosa. Okuna es la red social de ese mundo.",
+        "joel_title": "Fundador de Estaterally",
+        "joel_quote": "Imagino un mundo de tecnología amable, abierta, responsable y respetuosa. Estaterally es la red social de ese mundo.",
         "vincent_name": "Vicente Ruijter",
         "vincent_title": "Hacker ético",
-        "vincent_quote": "Okuna podría ser la última oportunidad real de construir algo diferente, algo ético, algo mejor.",
+        "vincent_quote": "Estaterally podría ser la última oportunidad real de construir algo diferente, algo ético, algo mejor.",
         "phil_name": "Felipe Zimmermann",
         "phil_title": "Miembro del Salón de la Fama de Internet",
-        "phil_quote": "Okuna tiene esperanza para el futuro, una red social en la que no somos víctimas de su modelo de negocio."
+        "phil_quote": "Estaterally tiene esperanza para el futuro, una red social en la que no somos víctimas de su modelo de negocio."
     },
     "splash_hero": {
         "hello_world": "Hola <span class=\"typing\"></span>",
@@ -62,12 +62,12 @@
         "friends": "amigos",
         "family": "familia",
         "grandma": "abuela",
-        "we_are_ob": "Somos <strong class=\"has-text-logo is-size-5\">Okuna</strong>, una red social ética para un mañana más brillante.",
+        "we_are_ob": "Somos <strong class=\"has-text-logo is-size-5\">Estaterally</strong>, una red social ética para un mañana más brillante.",
         "share": "Compartir",
         "notify_me": "Apóyanos"
     },
     "why_ob": {
-        "title": "¿Por qué Okuna?",
+        "title": "¿Por qué Estaterally?",
         "subtitle": "Algunas de las cosas clave que nos separan de otras redes sociales.",
         "zero_tracking": "Sin seguimiento",
         "zero_tracking_desc": "Nunca te rastrearemos, en ningún lugar, de ningún modo.",
@@ -89,13 +89,13 @@
         "good_for_planet_desc": "Creemos en un mundo mejor para todos. Por eso estamos dando el 30% de nuestros beneficios para hacer del mundo un lugar mejor, ahora y para siempre."
     },
     "count_down": {
-        "kickstarter": "Okuna",
+        "kickstarter": "Estaterally",
         "campaign_countdown": "cuenta regresiva de lanzamiento",
         "days": "día | días",
         "hours": "hora | horas",
         "minutes": "minuto | minutos",
         "seconds": "segundo | segundos",
-        "kickstarter_launch": "Okuna <strong class=\"has-text-kickstarter\">alpha</strong> comienza <br/>el<strong> {0} de marzo 2019</strong>."
+        "kickstarter_launch": "Estaterally <strong class=\"has-text-kickstarter\">alpha</strong> comienza <br/>el<strong> {0} de marzo 2019</strong>."
     },
     "meet_the_team": {
         "title": "Conoce al equipo"

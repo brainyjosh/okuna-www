@@ -47,14 +47,14 @@
     },
     "quotes": {
         "joel_name": "Joel Hernández",
-        "joel_title": "Founder of Okuna",
-        "joel_quote": "I envision a world of kind, open, accountable and respectful technology. Okuna is the social network of that world.",
+        "joel_title": "Founder of Estaterally",
+        "joel_quote": "I envision a world of kind, open, accountable and respectful technology. Estaterally is the social network of that world.",
         "vincent_name": "Vincent Ruijter",
         "vincent_title": "Ethical Hacker",
-        "vincent_quote": "Okuna might be the last real chance to build something different, something ethical, something better.",
+        "vincent_quote": "Estaterally might be the last real chance to build something different, something ethical, something better.",
         "phil_name": "Phil Zimmermann",
         "phil_title": "Internet hall of fame member",
-        "phil_quote": "Okuna holds hope for the future, a social network where we are not victims of its business model."
+        "phil_quote": "Estaterally holds hope for the future, a social network where we are not victims of its business model."
     },
     "splash_hero": {
         "hello_world": "Hello <span class=\"typing\"></span>",
@@ -68,7 +68,7 @@
         "notify_me": "Support us"
     },
     "why_ob": {
-        "title": "Why Okuna?",
+        "title": "Why Estaterally?",
         "subtitle": "Some of the key things that set us apart from other social networks.",
         "zero_tracking": "Zero tracking",
         "zero_tracking_desc": "We will never track you, anywhere, anyhow.",
@@ -90,13 +90,13 @@
         "good_for_planet_desc": "We believe in a better world for everyone. That's why we're giving 30% of our profits towards making the world a better place, now and\n                                    forever."
     },
     "count_down": {
-        "kickstarter": "Okuna",
+        "kickstarter": "Estaterally",
         "campaign_countdown": "launch countdown",
         "days": "day | days",
         "hours": "hour | hours",
         "minutes": "minute | minutes",
         "seconds": "second | seconds",
-        "kickstarter_launch": "Okuna <strong class=\"has-text-kickstarter\">alpha</strong> begins <br/>on the<strong> {0}th of March 2019</strong>."
+        "kickstarter_launch": "Estaterally <strong class=\"has-text-kickstarter\">alpha</strong> begins <br/>on the<strong> {0}th of March 2019</strong>."
     },
     "meet_the_team": {
         "title": "Meet the team"

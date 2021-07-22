@@ -14,7 +14,7 @@
                         <a href="#" class="header-logo"></a>
                         <span class="header-logo-separator"></span>
                         <span
-                            v-html="$t('common:global.okuna')"
+                            v-html="$t('common:global.Estaterally')"
                             class="has-text-logo is-size-5"
                             style="padding-top: 5px"
                         ></span>
@@ -61,7 +61,7 @@
                             target="_blank"
                             >{{ $t("common:header.blog") }}</a
                         >
-                        <!-- <a href="https://shwca.se/okuna" rel="noopener noreferrer" class="navbar-item"
+                        <!-- <a href="https://shwca.se/Estaterally" rel="noopener noreferrer" class="navbar-item"
                            target="_blank"
                         >{{ $t('common:header.press') }}</a> -->
                     </div>

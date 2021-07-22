@@ -274,7 +274,7 @@ export default {
             );
         },
         mailToLink() {
-            return `mailto:info@okuna.io${this.mailToQueryString}`;
+            return `mailto:info@Estaterally.io${this.mailToQueryString}`;
         },
         mailToQueryString() {
             const encodedSubject = encodeURIComponent(this.subject);

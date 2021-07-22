@@ -19,7 +19,7 @@
     },
     "easy": {
         "title": "Samimi ve rahat",
-        "description": "Bizim<a href=\"https://github.com/OkunaOrg/Okuna-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\"> topluluğumuz tarafından oluşturulmuş kurallarımız</a>'ın bir kombinasyonu ile etik tasarım ve kodlarla mutluluğun son hedefi olduğu bir dostluğun saygı ve açıklık ortamını teşvik ediyoruz."
+        "description": "Bizim<a href=\"https://github.com/EstaterallyOrg/Estaterally-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\"> topluluğumuz tarafından oluşturulmuş kurallarımız</a>'ın bir kombinasyonu ile etik tasarım ve kodlarla mutluluğun son hedefi olduğu bir dostluğun saygı ve açıklık ortamını teşvik ediyoruz."
     },
     "fun": {
         "title": "Kendini ifade etmenin daha fazla yolu",
@@ -47,14 +47,14 @@
     },
     "quotes": {
         "joel_name": "Joel Hernández",
-        "joel_title": "Okuna'nın Kurucusu",
-        "joel_quote": "Nazik, açık, hesap verebilir ve saygılı bir teknoloji dünyasını düşünüyorum. Okuna, o dünyanın sosyal ağıdır.",
+        "joel_title": "Estaterally'nın Kurucusu",
+        "joel_quote": "Nazik, açık, hesap verebilir ve saygılı bir teknoloji dünyasını düşünüyorum. Estaterally, o dünyanın sosyal ağıdır.",
         "vincent_name": "Vincent Ruijter",
         "vincent_title": "Etik Hacker",
-        "vincent_quote": "Okuna farklı, etik, daha iyi bir şey inşa etmek için son gerçek şans olabilir.",
+        "vincent_quote": "Estaterally farklı, etik, daha iyi bir şey inşa etmek için son gerçek şans olabilir.",
         "phil_name": "Phil Zimmermann",
         "phil_title": "İnternet salon şöhreti üyesi",
-        "phil_quote": "Okuna gelecek için umut veriyor, iş modelinin kurbanı olmadığımız bir sosyal ağ."
+        "phil_quote": "Estaterally gelecek için umut veriyor, iş modelinin kurbanı olmadığımız bir sosyal ağ."
     },
     "splash_hero": {
         "hello_world": "Merhaba <span class=\"typing\"></span>",
@@ -62,12 +62,12 @@
         "friends": "Arkadaşlar",
         "family": "Aile",
         "grandma": "Büyükanne",
-        "we_are_ob": "<strong class = \"has-text-logo is-size-5\"> Biz Okuna olarak </strong> yarınlar adına parlak etik için sosyal bir ağız.",
+        "we_are_ob": "<strong class = \"has-text-logo is-size-5\"> Biz Estaterally olarak </strong> yarınlar adına parlak etik için sosyal bir ağız.",
         "share": "Paylaş",
         "notify_me": "Bizi destekleyin"
     },
     "why_ob": {
-        "title": "Neden Okuna?",
+        "title": "Neden Estaterally?",
         "subtitle": "Bizi diğer sosyal ağlardan ayıran en önemli şeylerden bazıları.",
         "zero_tracking": "Sıfır izleme",
         "zero_tracking_desc": "Her halükarda, seni asla izlemeyeceğiz.",
@@ -89,13 +89,13 @@
         "good_for_planet_desc": "Herkes için daha iyi bir dünyaya inanıyoruz. Bu yüzden dünyayı daha iyi bir yer haline getirmek için kazancımızın %30'unu veriyoruz.\n                                     daima."
     },
     "count_down": {
-        "kickstarter": "Okuna",
+        "kickstarter": "Estaterally",
         "campaign_countdown": "geri sayımı başlat",
         "days": "gün | gün",
         "hours": "saat | saat",
         "minutes": "dakika | dakika",
         "seconds": "saniye | saniye",
-        "kickstarter_launch": "Okuna <strong class=\"has-text-kickstarter\">alpha olarak </strong><br/><strong> {0} Mart 2019</strong>'da başlıyor."
+        "kickstarter_launch": "Estaterally <strong class=\"has-text-kickstarter\">alpha olarak </strong><br/><strong> {0} Mart 2019</strong>'da başlıyor."
     },
     "meet_the_team": {
         "title": "Ekiple Tanışın"

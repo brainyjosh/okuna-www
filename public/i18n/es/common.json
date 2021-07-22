@@ -1,6 +1,6 @@
 {
     "global": {
-        "okuna": "Okuna"
+        "Estaterally": "Estaterally"
     },
     "header": {
         "home": "Inicio",
@@ -23,7 +23,7 @@
         "linked_in": "LinkedIn",
         "product_hunt": "Product Hunt",
         "facebook": "Facebook",
-        "the_ob_organization": "Okuna",
+        "the_ob_organization": "Estaterally",
         "privacy_policy": "Política de privacidad",
         "made_with": "Hecho con ",
         "in_europe": " en Europa",
@@ -36,7 +36,7 @@
         "share_email": "Enviar email",
         "share_linkedin": "Compartir en LinkedIn",
         "share_wa": "Compartir en Whatsapp",
-        "share_title": "Okuna. Una red social para un futuro mejor.",
+        "share_title": "Estaterally. Una red social para un futuro mejor.",
         "share_description": "Honesto, personal, respetuoso de la privacidad y éticamente sostenido.",
         "share_quote": "¡Únete a la revolución! A mediados de 2019."
     },

@@ -19,7 +19,7 @@
                                             class="footer-logo-separator"
                                         ></span>
                                         <h3
-                                            v-html="$t('global.okuna')"
+                                            v-html="$t('global.Estaterally')"
                                             class="has-text-logo"
                                             style="padding-top: 9px"
                                         ></h3>

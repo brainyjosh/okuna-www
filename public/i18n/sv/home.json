@@ -19,7 +19,7 @@
     },
     "easy": {
         "title": "Vänligt och avslappnat",
-        "description": "Genom en kombination av våra <a href=\"https://github.com/OkunaOrg/Okuna-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\">gemenskapsbyggda riktlinjer</a>, etisk design och kod, främjer vi en omgivning av vänlighet, respekt och öppenhet, där glädje är slutmålet."
+        "description": "Genom en kombination av våra <a href=\"https://github.com/EstaterallyOrg/Estaterally-api/blob/master/docs/COMMUNITY_GUIDELINES.md\" rel=\"noreferrer noopener nofollow\">gemenskapsbyggda riktlinjer</a>, etisk design och kod, främjer vi en omgivning av vänlighet, respekt och öppenhet, där glädje är slutmålet."
     },
     "fun": {
         "title": "Fler sätt att uttrycka dig själv",
@@ -47,14 +47,14 @@
     },
     "quotes": {
         "joel_name": "Joel Hernández",
-        "joel_title": "Okunas grundare",
-        "joel_quote": "Jag föreställer mig en värld med god, ansvarsfull och respektfull teknologi. Okuna är den världens sociala nätverk.",
+        "joel_title": "Estaterallys grundare",
+        "joel_quote": "Jag föreställer mig en värld med god, ansvarsfull och respektfull teknologi. Estaterally är den världens sociala nätverk.",
         "vincent_name": "Vincent Ruijter",
         "vincent_title": "Etisk hacker",
-        "vincent_quote": "Okuna kan vara den sista riktiga chansen att bygga något annorlunda, något etiskt, något bättre.",
+        "vincent_quote": "Estaterally kan vara den sista riktiga chansen att bygga något annorlunda, något etiskt, något bättre.",
         "phil_name": "Phil Zimmermann",
         "phil_title": "Medlem i Internet Hall of Fame",
-        "phil_quote": "Okuna ger hopp om framtiden, ett socialt nätverk där vi inte är offer till dess affärsmodell."
+        "phil_quote": "Estaterally ger hopp om framtiden, ett socialt nätverk där vi inte är offer till dess affärsmodell."
     },
     "splash_hero": {
         "hello_world": "Hej <span class=\"typing\"></span>",
@@ -62,12 +62,12 @@
         "friends": "mina vänner",
         "family": "familjen",
         "grandma": "mormor",
-        "we_are_ob": "Vi är <strong class=\"has-text-logo is-size-5\">Okuna</strong>, ett etiskt socialt nätverk för en ljusare morgondag.",
+        "we_are_ob": "Vi är <strong class=\"has-text-logo is-size-5\">Estaterally</strong>, ett etiskt socialt nätverk för en ljusare morgondag.",
         "share": "Dela",
         "notify_me": "Stöd oss"
     },
     "why_ob": {
-        "title": "Varför Okuna?",
+        "title": "Varför Estaterally?",
         "subtitle": "Några av de viktigaste sakerna som skiljer oss från andra sociala nätverk.",
         "zero_tracking": "Ingen spårning",
         "zero_tracking_desc": "Vi kommer aldrig spåra dig, oavsett vart eller hur.",
@@ -89,13 +89,13 @@
         "good_for_planet_desc": "Vi tror på en bättre värld för alla. Det är därför vi ger 30% av våra inkomster till att göra världen till en bättre plats, nu och\n                                    för alltid."
     },
     "count_down": {
-        "kickstarter": "Okuna",
+        "kickstarter": "Estaterally",
         "campaign_countdown": "nedräkning till lansering",
         "days": "dag | dagar",
         "hours": "timme | timmar",
         "minutes": "minut | minuter",
         "seconds": "sekund | sekunder",
-        "kickstarter_launch": "Okunas <strong class=\"has-text-kickstarter\">alfa</strong> börjar <br/>den <strong> {0}:de Mars 2019</strong>."
+        "kickstarter_launch": "Estaterallys <strong class=\"has-text-kickstarter\">alfa</strong> börjar <br/>den <strong> {0}:de Mars 2019</strong>."
     },
     "meet_the_team": {
         "title": "Möt teamet"
