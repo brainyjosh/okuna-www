@@ -80,7 +80,7 @@
                 </div>
             </div>
         </section> -->
-        <section class="section">
+        <!-- <section class="section">
             <div class="container">
                 <div class="content has-text-centered padding-bottom-2x">
                     <h4
@@ -90,7 +90,7 @@
                 </div>
                 <ob-team-members />
             </div>
-        </section>
+        </section> -->
         <section class="section">
             <div class="container">
                 <div class="content has-text-centered padding-bottom-2x">
@@ -104,7 +104,7 @@
                 <ob-ambassadors></ob-ambassadors>
             </div>
         </section>
-        <section class="section">
+        <!-- <section class="section">
             <div class="container">
                 <div class="content has-text-centered padding-bottom-2x">
                     <h4 class="is-size-3 padding-bottom-3x">
@@ -119,7 +119,7 @@
                     ></h5>
                 </div>
             </div>
-        </section>
+        </section> -->
         <section class="hero is-bold">
             <div class="hero-body has-text-centered">
                 <div class="container">

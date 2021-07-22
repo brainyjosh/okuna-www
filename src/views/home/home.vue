@@ -28,12 +28,12 @@
                 </div>
             </div>
         </section> -->
-        <section class="section">
+        <!-- <section class="section">
             <div class="container">
                 <ob-quotes></ob-quotes>
             </div>
-        </section>
-        <ob-meet-the-team></ob-meet-the-team>
+        </section> -->
+        <!-- <ob-meet-the-team></ob-meet-the-team> -->
         <!-- <section class="section">
             <div class="container">
                 <div class="content has-text-centered padding-bottom-2x">

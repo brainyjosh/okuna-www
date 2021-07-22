@@ -9,15 +9,16 @@
                         <div class="column content is-medium community-text">
                             <h3>{{ $t("home:community.title") }}</h3>
                             <p v-html="$t('home:community.description')"></p>
-                            <button
+                            <a
                                 class="button is-rainbow is-rounded"
-                                v-scroll-to="'#beta-signup'"
+                                href="https://estaterally.com/apply"
+                                target="_blank"
                             >
                                 <span class="icon">
                                     <i class="fas fa-heart"></i>
                                 </span>
-                                <span>Apply to Join.</span>
-                            </button>
+                                <span>Apply to Join</span>
+                            </a>
                         </div>
                     </div>
                 </div>

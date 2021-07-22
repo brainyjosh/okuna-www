@@ -18,15 +18,15 @@
                             <p
                                 v-html="$t('home:good_for_planet.description')"
                             ></p>
-                            <button
+                            <router-link
+                                to="/contact-us"
                                 class="button is-rainbow is-rounded"
-                                v-scroll-to="'#beta-signup'"
                             >
                                 <span class="icon">
                                     <i class="fas fa-heart"></i>
                                 </span>
                                 <span>Back this project.</span>
-                            </button>
+                            </router-link>
                         </div>
                     </div>
                 </div>

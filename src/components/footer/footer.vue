@@ -172,7 +172,7 @@
 }
 
 .footer-logo {
-    background-image: url("../assets/logo.png");
+    background-image: url("../assets/logo.svg");
     background-size: 40px 40px;
     background-repeat: no-repeat;
     background-position: center center;

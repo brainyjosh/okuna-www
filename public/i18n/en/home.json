@@ -106,6 +106,6 @@
         "beta_date": "Beta coming mid 2019",
         "email_placeholder": "your@email.com",
         "server_error": "We're experiencing server issues. Please try again in a few minutes.",
-        "success": "&nbsp;&nbsp;Hooray! You're number {count} on our waitlist."
+        "success": "&nbsp;&nbsp;Hooray! You've been added to our waitlist, you will be notified via email once we launch."
     }
 }

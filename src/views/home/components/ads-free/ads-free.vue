@@ -26,15 +26,16 @@
                         <div class="column content is-medium ads-free-text">
                             <h3>{{ $t("home:ads_free.title") }}</h3>
                             <p v-html="$t('home:ads_free.description')"></p>
-                            <button
+                            <a
                                 class="button is-rainbow is-rounded"
-                                v-scroll-to="'#beta-signup'"
+                                href="https://estaterally.com/apply"
+                                target="_blank"
                             >
                                 <span class="icon">
                                     <i class="fas fa-heart"></i>
                                 </span>
-                                <span>{{ $t("home:home.signup_button") }}</span>
-                            </button>
+                                <span>Apply to Join</span>
+                            </a>
                         </div>
                     </div>
                 </div>

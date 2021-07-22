@@ -133,7 +133,7 @@
 
 <style lang="scss">
 .header-logo {
-    background-image: url("../assets/logo.png");
+    background-image: url("../assets/logo.svg");
     background-size: 30px 30px;
     background-repeat: no-repeat;
     background-position: center center;

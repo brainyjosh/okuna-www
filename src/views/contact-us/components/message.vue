@@ -244,7 +244,7 @@
 import VueRecaptcha from "vue-recaptcha";
 import axios from "axios";
 
-const CONTACT_URL = process.env.VUE_APP_CONTACT_URL;
+const CONTACT_URL = "http://localhost:5000/public/contact/";
 const GOOGLE_RECAPTCHA_SCRIPT =
     "https://www.google.com/recaptcha/api.js?onload=vueRecaptchaApiLoaded&render=explicit";
 
@@ -335,20 +335,22 @@ export default {
                 .then(() => {
                     this.clearAll();
                     this.disableLoading();
-                    this.$dialog.alert({
-                        title: "Hooray!",
-                        message:
-                            "Your message has been delivered. <br/> You'll hear from us soon."
-                    });
+                    // this.$dialog.alert({
+                    //     title: "Hooray!",
+                    //     message: ""
+
+                    // });
+                    alert(
+                        "Thank you for reaching out to us, Your message has been delivered. You'll hear from us soon."
+                    );
                 })
                 .catch(error => {
                     console.error(error);
                     this.disableLoading();
-                    this.$dialog.alert({
-                        title: "Oh no...",
-                        message:
-                            "We could not deliver your message. Please try again later or contact us at info@estaterally.com"
-                    });
+
+                    alert(
+                        "We could not deliver your message. Please try again later or contact us at info@estaterally.com"
+                    );
                 });
         },
         validateAll() {
